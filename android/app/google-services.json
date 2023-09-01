@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914893681619",
+    "project_id": "mechanci-a7009",
+    "storage_bucket": "mechanci-a7009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914893681619:android:9b0fc062602d5931ebf526",
+        "android_client_info": {
+          "package_name": "com.example.mechanci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914893681619-6ee9virq5aigasktl4velpbo4bohfnfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXZm9VxKirAPOTsfnocgVUy5RNlNqs_P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914893681619-6ee9virq5aigasktl4velpbo4bohfnfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
